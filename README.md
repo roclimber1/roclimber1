@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @roclimber1
+- 👀 I’m interested in Frontend development
+- 🌱 I’m currently deepening my knowledge in ReactJS and TypeScript
+- 📫 How to reach me roclimber1@gmail.com
