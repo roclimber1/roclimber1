@@ -1,4 +1,4 @@
-Hi 👋 My name is Dmitry Bykov
+Hi, I'm Dmitry Bykov! 👋
 =============================
 
 - 👀 I’m interested in Frontend development
