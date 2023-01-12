@@ -34,6 +34,6 @@ Hi 👋 My name is Dmitry Bykov
 [![](https://img.shields.io/static/v1?label=leetcode&message=roclimber1&color=green&style=flat-square&logo=leetcode)](https://leetcode.com/roclimber1)
 
 
-### Support Me
+## Support Me
 
 <a href="https://www.buymeacoffee.com/roclimber"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
