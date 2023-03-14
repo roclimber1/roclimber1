@@ -6,7 +6,7 @@ Hi, I'm Dmitry Bykov! 👋
 - 📫 You can contact me at [roclimber1@gmail.com](mailto:roclimber1@gmail.com)
 
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roclimber1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roclimber1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=roclimber1&theme=vue&mode=weekly)](https://git.io/streak-stats)
 
