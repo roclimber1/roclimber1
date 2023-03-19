@@ -28,6 +28,15 @@ Hi, I'm Dmitry Bykov! 👋
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
 </p>
 
+
+Trying right now:
+
+<p align="left">
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+</p>
+
+
 ## 🔗 Links
 
 [![](https://img.shields.io/static/v1?label=codepen&message=roclimber1&color=green&style=flat-square&logo=codepen)](https://codepen.io/roclimber1)
