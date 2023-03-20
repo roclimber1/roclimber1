@@ -29,7 +29,7 @@ Hi, I'm Dmitry Bykov! 👋
 </p>
 
 
-Trying right now:
+Working with right now:
 
 <p align="left">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
