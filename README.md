@@ -1,8 +1,8 @@
 Hi, I'm Dmitry Bykov! 👋
 =============================
 
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently deepening my knowledge in ReactJS and TypeScript
+- 👀 I have a keen interest in Frontend development and I'm currently focused on developing my skills in this area.
+- 🌱 Currently, I'm working on enhancing my skills in ReactJS and TypeScript. Additionally, I'm embarking on my journey to become a full-stack developer.
 - 📫 You can contact me at [roclimber1@gmail.com](mailto:roclimber1@gmail.com)
 
 
