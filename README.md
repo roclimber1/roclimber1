@@ -8,7 +8,7 @@ Hi, I'm Dmitry Bykov! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roclimber1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=roclimber1)](https://git.io/streak-stats)
 
 ## 🛠 Skills
 * Technology stack: AngularJS, React JS / Native (Redux, Redux Toolkit, RTK Query), JavaScript (ES6), TypeScript, HTML5, Sass, CSS3
